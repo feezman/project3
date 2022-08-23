@@ -47,6 +47,15 @@
 
 ## INSTALL EXPRESSJS
 
+`npm install express`
+
+![apt update](./images/npm-install.PNG)
+
+`touch index.js`
+
+![apt update](./images/touch-index.PNG)
+
+
 
 
 
