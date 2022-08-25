@@ -55,6 +55,61 @@
 
 ![apt update](./images/touch-index.PNG)
 
+`npm install dotenv`
+![apt update](./images/install-dotenv.PNG)
+
+`vim index.js`
+![apt update](./images/vim-index.PNG)
+
+
+`node index.js`
+![apt update](./images/node-index.PNG)
+
+
+`curl -s http://169.254.169.254/latest/meta-data/public-ipv4 `
+![apt update](./images/public-ip.PNG)
+
+`http://19.119.14.227:5000`
+![apt update](./images/express-js.PNG)
+
+`mkdir routes`
+![apt update](./images/routes.PNG)
+
+`cd routes`
+![apt update](./images/cd-routes.PNG)
+
+`touch api.js`
+![apt update](./images/touch-api.PNG)
+
+`vim api.js`
+![apt update](./images/vim-api.PNG)
+
+`npm install mongoose`
+![apt update](./images/mongoose.PNG)
+
+`mkdir models`
+![apt update](./images/models.PNG)
+
+`cd models`
+![apt update](./images/cd-models.PNG)
+
+`touch todo.js`
+![apt update](./images/touch-todo.PNG)
+
+`vim todo.js`
+![apt update](./images/vim-todo.PNG)
+
+`vim api.js`
+![apt update](./images/vimapi.PNG)
+
+
+
+
+
+
+
+
+
 
 
 
