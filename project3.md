@@ -102,6 +102,20 @@
 `vim api.js`
 ![apt update](./images/vimapi.PNG)
 
+`touch .env && vi .env`
+![apt update](./images/touch-env.PNG)
+
+`vim index.js`
+![apt update](./images/vim-index2.PNG)
+
+
+`node index.js`
+![apt update](./images/start-nodejs.PNG)
+
+``
+
+
+
 
 
 
